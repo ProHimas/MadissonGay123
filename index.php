@@ -22,6 +22,7 @@
             <input type="tel" name="tel" placeholder="Телефон">
             <input type="email" name="email" placeholder="Почта">
             <label for="date">Дата рождения</label>
+            <label for="date">Дата рождения</label>
             <input type="date" name="date" id="date">
             <button type="submit">Зарегистрироваться</button>
             <a href="login.php" class="ssilki">Есть аккаунт?<br>Войти</a>
